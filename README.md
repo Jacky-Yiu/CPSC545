@@ -1,1 +1,1 @@
-CPSC 545 Term Project
+# CPSC 545 Term Project
