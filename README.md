@@ -2,7 +2,7 @@
 
 This repository contains the code and data for our project in the CPSC 545 course. The project focuses on predictive modeling using various machine learning techniques, specifically targeting gene expression prediction based on chemical and cellular interactions. Our approach integrates cutting-edge algorithms to address complex bioinformatics challenges.
 
-The dataset and biological question came from this Kaggel competition: https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/data
+The dataset and biological question came from this Kaggle competition: https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/data
 
 ## Repository Structure
 
